@@ -1,4 +1,4 @@
-- 👋 Hey there, I'm *Mohammed Fouzan*
+- 👋 Hey there, I'm **Mohammed Fouzan**
 - 👀 I’m interested in tech and anything and everything that looks terrific
 - 📫 How to reach me -> sheikhmdfouzan@gmail.com
 - 😄 Pronouns: He/Him/His
