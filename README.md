@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: He/Him/His
 
-- 🏫 I'm a ```MCA``` Student at ```Vellore Institute of Technology```.
+- 🏫 I'm a ```MCA``` Student at [Vellore Institute of Technology](https://vit.ac.in/)
 
 - 👨🏻‍💻 I'm currently open for ```Interships```
 <!---
