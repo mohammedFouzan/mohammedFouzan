@@ -14,6 +14,3 @@ mohammedFouzan/mohammedFouzan is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-
-https://github.com/mohammedFouzan/mohammedFouzan/assets/125375399/af930287-fdef-4288-a475-4cb6fa507573
-
