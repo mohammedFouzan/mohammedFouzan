@@ -48,7 +48,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2 style="color: #44AEFB">📊 Stats</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
@@ -58,6 +57,9 @@ You can click the Preview link to take a look at your changes.
 <div class="stats" align="center">
 
 ![mohammedFouzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedFouzan&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohammedFouzan&count_private=true&theme=algolia&border_radius=20)
 
