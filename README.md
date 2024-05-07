@@ -51,9 +51,9 @@ You can click the Preview link to take a look at your changes.
 
 <h2 style="color: #44AEFB">🔗 Few other platforms where you can find me:</h2>
 <div align="center">
-  <a href="https://www.instagram.com/fouzan_.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fouzan_.__" height="20" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mohammed-fouzan-3a39b9188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedFouzan" height="20" width="40" /></a>
-  <a href="https://www.facebook.com/mohammed.fouzan.1671?mibextid=qi2Omg&rdid=bNtkXpPBLeUGaVk5&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FEJFwu21VnEN2AzLh%2F%3Fmibextid%3Dqi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="mohammedFouzan" height="20" width="40" /></a>
+  <a href="https://www.instagram.com/fouzan_.__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fouzan_.__" height="20" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-fouzan-3a39b9188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedFouzan" height="20" width="40" /></a>
+  <a href="https://www.facebook.com/mohammed.fouzan.1671?mibextid=qi2Omg&rdid=bNtkXpPBLeUGaVk5&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FEJFwu21VnEN2AzLh%2F%3Fmibextid%3Dqi2Omg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="mohammedFouzan" height="20" width="40" /></a>
 </div>
 
 ---
