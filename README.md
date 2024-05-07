@@ -2,7 +2,13 @@
 mohammedFouzan/mohammedFouzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 style="color: #44AEFB;">  Hey there, I'm Mohammed Fouzan 👋  </h1>
+
+<h1 style="color: #44AEFB;">  Hey there, I'm Mohammed Fouzan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+
+
+
+
+
 
 <!--![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif) -->
 
