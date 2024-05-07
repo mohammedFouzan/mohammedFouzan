@@ -2,22 +2,13 @@
 mohammedFouzan/mohammedFouzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-
-
-
 <h1 style="color: #44AEFB;">  Hey there, I'm Mohammed Fouzan 👋  </h1>
-
 
 <!--![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif) -->
 
 - 👀 I’m interested in tech and anything and everything that looks terrific
 
 - 📫 How to reach me -> sheikhmdfouzan@gmail.com
-
-- 😄 Pronouns: He/Him/His
 
 - 🏫 I'm a ```MCA``` Student at [Vellore Institute of Technology](https://vit.ac.in/)
 
@@ -26,9 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages</h2>
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
+
 <div align="center">
 <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   
