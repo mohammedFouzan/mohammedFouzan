@@ -15,21 +15,24 @@ You can click the Preview link to take a look at your changes.
   
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages</h2>
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 
 <div align="center">
-  <img  alt="Java" height="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50px"/> 
-  <img  alt="html5" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
-  <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50px"/>
-  <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/
-  <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+  <img alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50px"/> 
+  <img alt="Java" height="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="html5" style="padding-right:10px;" height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+  <img alt="css3" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="55px"/>
+  <img alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img alt="angularjs" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" height="55px"/>
+  <img alt="mysql" style="padding-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="55px"/>
+  <img alt="mongodb" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="50px"/>
+  <img alt="nodejs" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50px"/>
+  <img alt="android" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+  
 </div>
 <br>
+
 
 
 <!-- Statistics -->
@@ -49,11 +52,12 @@ You can click the Preview link to take a look at your changes.
 <!--  End Stats Cards -->
 
 
-<h2 style="color: #44AEFB">🔗 Few other platforms where you can find me:</h2>
+<h2 style="color: #44AEFB">🔗 Connect with me:</h2>
 <div align="center">
-  <a href="https://www.instagram.com/fouzan_.__/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fouzan_.__" height="20" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mohammed-fouzan-3a39b9188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedFouzan" height="20" width="40" /></a>
-  <a href="https://www.facebook.com/mohammed.fouzan.1671?mibextid=qi2Omg&rdid=bNtkXpPBLeUGaVk5&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FEJFwu21VnEN2AzLh%2F%3Fmibextid%3Dqi2Omg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="mohammedFouzan" height="20" width="40" /></a>
+  <a href="https://linkedin.com/in/mohammed-fouzan-3a39b9188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-fouzan-3a39b9188" height="40" width="50" /></a>
+  <a href="https://instagram.com/fouzan_.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fouzan_.__" height="40" width="50" /></a>
+  <a href="https://fb.com/sheikh mohammed fouzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh mohammed fouzan" height="40" width="50" /></a>
+  <a href="https://www.leetcode.com/sheikhmdfouzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheikhmdfouzan" height="40" width="50" /></a>
 </div>
 
 ---
