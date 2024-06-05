@@ -78,7 +78,11 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Stats</h2>
+<!--<h2 style="color: #44AEFB"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" height="30" width="45"> Stats</h2>-->
+<h2 style="color: #44AEFB"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" height="40" width="50"> Stats</h2>
+
+
+
 <div class="stats" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="300" width="1000">
 
@@ -100,9 +104,10 @@ You can click the Preview link to take a look at your changes.
   <a href="https://fb.com/sheikh mohammed fouzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh mohammed fouzan" height="40" width="50" /></a>
   <a href="https://www.leetcode.com/sheikhmdfouzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheikhmdfouzan" height="40" width="50" /></a>
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
+
+
+
+
