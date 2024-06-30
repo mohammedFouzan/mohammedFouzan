@@ -9,11 +9,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in tech and anything and everything that looks terrific
 
-- 📫 How to reach me -> sheikhmdfouzan@gmail.com
-
 - 🏫 I'm a ```MCA``` Student at [Vellore Institute of Technology](https://vit.ac.in/)
 
 - 👨🏻‍💻 I'm currently open for ```Interships```
+
+- 🌐 [My Portfolio Wesbite](https://allaboutfouzan.netlify.app/)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
