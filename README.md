@@ -102,7 +102,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://linkedin.com/in/mohammed-fouzan-3a39b9188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-fouzan-3a39b9188" height="40" width="50" /></a>
   <a href="https://instagram.com/fouzan_.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fouzan_.__" height="40" width="50" /></a>
   <a href="https://www.facebook.com/mohammed.fouzan.1671?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh mohammed fouzan" height="40" width="50" /></a>
-  <a href="https://www.leetcode.com/sheikhmdfouzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheikhmdfouzan" height="40" width="50" /></a>
+  <a href="https://leetcode.com/u/fouzanIsCoding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheikhmdfouzan" height="40" width="50" /></a>
 </div>
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
